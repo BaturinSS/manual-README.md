@@ -1,5 +1,5 @@
 
-<h1 align="centre">Редактирование README.md с использованием <a href="https://ru.wikipedia.org/wiki/Markdown" target="_blank">Markdown</a></h1>
+<h1 align="centr">Редактирование README.md с использованием <a href="https://ru.wikipedia.org/wiki/Markdown" target="_blank">Markdown</a></h1>
 ## Немного Википедии
 Markdown (произносится маркда́ун) — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций (HTML, Rich Text и других).
 
