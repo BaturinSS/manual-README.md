@@ -412,9 +412,10 @@ ___
 ____
 ## Вставка изображения
 ```
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://user-images.githubusercontent.com/94468513/163691774-019be544-5b3f-4217-8c4a-5484ade05c07.png "Орк")
+
 ```
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://user-images.githubusercontent.com/94468513/163691774-019be544-5b3f-4217-8c4a-5484ade05c07.png "Орк")
 
 ### Дополнительно:
 #### Вставка ссылки с картинкой на ролик с YouTube
