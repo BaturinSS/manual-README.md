@@ -20,7 +20,7 @@
 11. [Вставка видео с YouTube](#Вставка-видео-с-YouTube)
 12. [Вставка таблиц](#Вставка-таблиц)
 13. [Диаграмм Mermaid.js](#диаграмм-mermaidjs)
-14. [Дополнения](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
+14. [Дополнения](https://github.com/BaturinSS/manual-README.md/blob/main/Дополнения.md)
     
 ## Разделительная черта
 При использовании
