@@ -549,15 +549,15 @@ You can also use words, to fit your writing style more closely[^note].
 
 ```    
 
-Here is a simple footnote[^1].
+Вот простая сноска[^1].
 
-A footnote can also have multiple lines[^2].  
+Сноска также может содержать несколько строк[^2].  
 
-You can also use words, to fit your writing style more closely[^note].
+Вы также можете использовать слова, чтобы они более точно соответствовали вашему стилю письма[^note].
 
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
+[^1]: Моя рекомендация.
+[^2]: Каждая новая строка должна иметь префикс в 2 пробела.
+  Это позволяет вам иметь сноску с несколькими строками.
 [^note]:
     Именованные сноски по-прежнему будут отображаться с цифрами вместо текста, но позволят упростить идентификацию и связывание.    
     Эта сноска также была сделана с другим синтаксисом, используя 4 пробела для новых строк.
