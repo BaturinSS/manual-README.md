@@ -1,5 +1,10 @@
 # Редактирование и оформление файла README.md
-Для описания проектов на GitHub используется README.md, который пишется на языке разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown).
+
+Для описания проектов на GitHub используется README.md, который пишется на языке разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown).    
+
+Это предназначено для краткой справки и демонстрации. Для получения более полной информации см. оригинальную спецификацию Джона Грубера и информационную страницу Markdown со вкусом Github.
+
+Обратите внимание, что здесь также есть Cheatsheet, специфичный для Markdown, если это то, что вы ищете. Вы также можете проверить больше инструментов Markdown.
 ## Оглавление
 
 0. [Разделительная черта](https://github.com/BaturinSS/manual-README.md/blob/main/src/dividing-line/dividing-line.md)
