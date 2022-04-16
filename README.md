@@ -8,18 +8,19 @@
 3. [Использование эмодзи (emoji)](#Использование-эмодзи-emoji)
 4. [Использование юникод (unicode)](#Использование-юникод-unicode)
 5. [Использование цитирования в тексте](#Использование-цитирования-в-тексте)
-6. [Подсветка кода](#Подсветка-кода)
-7. [Списки](#Списки)
+6. [Использование сносок в тексте](#Использование-сносок-в-тексте)
+7. [Подсветка кода](#Подсветка-кода)
+8. [Списки](#Списки)
     1. [Маркированный](#Маркированный)
     2. [Нумерованный](#Нумерованный)
     3. [Смешанные списки](#Смешанные-списки)
     4. [Список задач](#Список-задач)
-8. [Ссылки](#Ссылки)
-9. [Вставка изображения](#Вставка-изображения)
-10. [Вставка видео с YouTube](#Вставка-видео-с-YouTube)
-11. [Вставка таблиц](#Вставка-таблиц)
-12. [Диаграмм Mermaid.js](#диаграмм-mermaidjs)
-13. [Дополнения](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
+9. [Ссылки](#Ссылки)
+10. [Вставка изображения](#Вставка-изображения)
+11. [Вставка видео с YouTube](#Вставка-видео-с-YouTube)
+12. [Вставка таблиц](#Вставка-таблиц)
+13. [Диаграмм Mermaid.js](#диаграмм-mermaidjs)
+14. [Дополнения](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
     
 ## Разделительная черта
 При использовании
@@ -177,6 +178,7 @@ ___
 
 [:arrow_up:Оглавление](#Оглавление)
 ___
+
 ## Подсветка кода
 
 Если нужно выделить слово или фразу внутри строки, то используются одинарные обратные кавычки (`):
@@ -528,3 +530,35 @@ erDiagram
 
 [:arrow_up:Оглавление](#Оглавление) 
 ____
+
+## Использование сносок в тексте    
+
+```
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.  
+
+```    
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Именованные сноски по-прежнему будут отображаться с цифрами вместо текста, но позволят упростить идентификацию и связывание.    
+    Эта сноска также была сделана с другим синтаксисом, используя 4 пробела для новых строк.
+___
