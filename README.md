@@ -3,7 +3,7 @@
 ## Оглавление
 
 0. [Разделительная черта](https://github.com/BaturinSS/manual-README.md/blob/main/src/dividing-line/dividing-line.md)
-1. [Заголовки](#Заголовки)
+1. [Заголовки](https://github.com/BaturinSS/manual-README.md/blob/main/src/headings/headings.md)
 2. [Работа с выделением текста](#Работа-с-выделением-текста)
 3. [Использование эмодзи (emoji)](#Использование-эмодзи-emoji)
 4. [Использование юникод (unicode)](#Использование-юникод-unicode)
