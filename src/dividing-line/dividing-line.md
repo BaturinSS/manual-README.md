@@ -8,4 +8,4 @@ ____
 ____
 
 ____
-[:arrow_up:Оглавление](#Оглавление)
+[&#9851; Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)
