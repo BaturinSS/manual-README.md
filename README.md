@@ -5,6 +5,10 @@
 Это предназначено для краткой справки и демонстрации. Для получения более полной информации см. оригинальную документацию [John Gruber's](https://daringfireball.net/projects/markdown/) и информационную страницу [Markdown на Github](https://docs.github.com/en/get-started/writing-on-github).
 
 Обратите внимание, что здесь также есть Cheatsheet, специфичный для Markdown, если это то, что вы ищете. Вы также можете проверить больше инструментов Markdown.
+## [Википедия о Markdown](https://ru.wikipedia.org/wiki/Markdown)
+## [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)    
+___
+
 ## Оглавление
 
 0. [Разделительная черта](https://github.com/BaturinSS/manual-README.md/blob/main/src/dividing-line/dividing-line.md)
