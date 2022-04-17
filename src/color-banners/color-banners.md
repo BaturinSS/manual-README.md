@@ -2,11 +2,11 @@
 
 ## ![#7289da](https://via.placeholder.com/15/7289da/000000?text=+)  Параметры банера:
 ```
- ![alt-text](https://via.placeholder.com/ДЛИННА х ШИРИНА/ЦВЕТ ФОНА/ЦВЕТ ТЕКСТА?text=+ТЕКСТ) `пурпурный` 
+ ![alt-text](https://via.placeholder.com/ДЛИННА х ШИРИНА/ЦВЕТ ФОНА/ЦВЕТ ТЕКСТА?text=ТЕКСТ_ТЕКСТ_ТЕКСТ_ТЕКСТ_ТЕКСТ)
 ```
 ### _Пример:_
 
-![#a90171](https://via.placeholder.com/1100x50/fff99a/420420?text=+)
+![#a90171](https://via.placeholder.com/1100x70/fff99a/420420?text=ТЕКСТ_ТЕКСТ_ТЕКСТ_ТЕКСТ_ТЕКСТ)
 
 Цвет может быть любым. На этом сайте можно посмотреть коды цвета [Color Hex Color Codes](https://www.color-hex.com)
 
