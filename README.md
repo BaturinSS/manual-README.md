@@ -10,8 +10,8 @@ ___
 
 0. [Разделительная черта](https://github.com/BaturinSS/manual-README.md/blob/main/src/dividing-line/dividing-line.md)
 1. [Заголовки](https://github.com/BaturinSS/manual-README.md/blob/main/src/headings/headings.md)
-2. [Работа с выделением текста](#Работа-с-выделением-текста)
-3. [Использование эмодзи (emoji)](#Использование-эмодзи-emoji)
+2. [Работа с выделением текста](https://github.com/BaturinSS/manual-README.md/blob/main/src/text-selection/text-selection.md)
+3. [Использование эмодзи (emoji)](https://github.com/BaturinSS/manual-README.md/blob/main/src/emoji/emoji.md)
 4. [Использование юникод (unicode)](#Использование-юникод-unicode)
 5. [Использование цитирования в тексте](#Использование-цитирования-в-тексте)
 6. [Использование сносок в тексте](#Использование-сносок-в-тексте)
