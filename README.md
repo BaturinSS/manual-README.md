@@ -70,6 +70,7 @@ ___
 + #### [Информация о Markdown на GitHab :arrow_right:](https://docs.github.com/en/get-started/writing-on-github)
 + #### [Другие инструменты Markdown :arrow_right:](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
 + #### [Markdown Here wiki :arrow_right:](https://github.com/adam-p/markdown-here/wiki)
++ #### [GitHub Profile Summary Cards :arrow_right:](https://github-profile-summary-cards.vercel.app/demo.html)
 ___
 
 ## [:arrow_up:  Оглавление](#Оглавление)
