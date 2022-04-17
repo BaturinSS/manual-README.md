@@ -9,4 +9,6 @@
     <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Esc</kbd> - Вызов диспетчера задач.
 </pre>
 
-[:arrow_up:Оглавление](#Оглавление)
+____
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md#оглавление)
