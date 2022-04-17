@@ -46,7 +46,7 @@ ___
 
 #### [Marked :arrow_right:](https://github.com/chjj/marked)
 #### [Remarkable :arrow_right:](https://github.com/jonschlinkert/remarkable)
-#### [PageDown](https://code.google.com/p/pagedown/) (and [PageDown Extra :arrow_right:](https://github.com/jmcmanus/pagedown-extra))
+#### [PageDown](https://code.google.com/p/pagedown/) (and [PageDown Extra](https://github.com/jmcmanus/pagedown-extra)) :arrow_right:
 #### [markdown-it :arrow_right:](https://github.com/markdown-it/markdown-it)
 #### [Gitdown: GitHub markdown preprocessor :arrow_right:](https://github.com/gajus/gitdown)
 #### [reMarked.js: HTML-to-Markdown processor :arrow_right:](https://github.com/leeoniya/reMarked.js)
