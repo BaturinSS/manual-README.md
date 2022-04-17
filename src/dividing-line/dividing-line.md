@@ -8,4 +8,4 @@ ____
 получается разделительная черта
 ____
 
-[&#9851; Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)
+[:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)
