@@ -28,6 +28,9 @@ ___
 12. [Вставка таблиц](#Вставка-таблиц)
 13. [Диаграмм Mermaid.js](#диаграмм-mermaidjs)
 14. [Дополнения](https://github.com/BaturinSS/manual-README.md/blob/main/Дополнения.md)
+15. [Инструменты](#Инструменты)
+16. [Библиотеки JavaScript](#Библиотеки JavaScript)
+17. [Полезные ссылки](#Полезные ссылки)
 ___
 
 ## Инструменты
@@ -58,7 +61,10 @@ ___
 #### [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
 #### [Markdown Here wiki](https://github.com/adam-p/markdown-here/wiki)
 ___
-    
+
+[&#9851;Оглавление](#Оглавление)
+
+___
 ## Разделительная черта
 При использовании
 ```
