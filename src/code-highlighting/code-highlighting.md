@@ -59,7 +59,6 @@ export class Section {
       : this._container.append(element)
   };
 };
-
 ```
 
 Пример блока для `C#`:
