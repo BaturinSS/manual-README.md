@@ -15,3 +15,6 @@ Status: ![https://img.shields.io/badge/Status-WIP-red](https://img.shields.io/ba
 
 Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.7.5-blue)
 
+____
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md#оглавление)
