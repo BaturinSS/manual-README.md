@@ -20,4 +20,6 @@
 </p>
 </details>    
     
-[:arrow_up:Оглавление](#Оглавление)
+____
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md#оглавление)
