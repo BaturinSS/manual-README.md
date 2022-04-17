@@ -64,10 +64,10 @@ ___
 
 ## [:arrow_up:  Оглавление](#Оглавление)
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `красный`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `желтый`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `синий`
-- ![#a90171](https://via.placeholder.com/15/a90171/000000?text=+) `пурпурный`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `красный`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `желтый`
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `синий`
+![#a90171](https://via.placeholder.com/15/a90171/000000?text=+) `пурпурный`
 
 ```diff
 - текст выделен красным цветом
