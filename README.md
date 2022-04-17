@@ -32,19 +32,31 @@ ___
 
 ## Инструменты
 
-### [ВStackEdit: редактор документов MD в браузере](https://stackedit.io/)
-### [Документация Markdown](https://daringfireball.net/projects/markdown)
-### [Информация о Markdown на GitHab](https://docs.github.com/en/get-started/writing-on-github)
-### [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
+#### [ВStackEdit: редактор документов MD в браузере](https://stackedit.io)
+#### [Minimalist Markdown Editor: плагин для Chrome](http://markdown.pioul.fr)
+#### [Mou: редактор macOS](http://25.io/mou)
+#### [Haroopad: кросс-платформенный редактор](http://pad.haroopress.com/user.html)
+#### [Больший список инструментов](https://github.com/writekit/awesome-markdown)
 ___
+
+## Библиотеки JavaScript
+
+#### [Marked](https://github.com/chjj/marked)
+#### [Remarkable](https://github.com/jonschlinkert/remarkable)
+#### [PageDown](https://code.google.com/p/pagedown/) (and [PageDown Extra](https://github.com/jmcmanus/pagedown-extra))
+#### [markdown-it](https://github.com/markdown-it/markdown-it)
+#### [Gitdown: GitHub markdown preprocessor](https://github.com/gajus/gitdown)
+#### [reMarked.js: HTML-to-Markdown processor](https://github.com/leeoniya/reMarked.js)
+#### [Kramed: Fork of Marked](https://github.com/GitbookIO/kramed)
 ___
 
 ## Полезные ссылки
 
-### [Википедия о Markdown](https://ru.wikipedia.org/wiki/Markdown)
-### [Документация Markdown](https://daringfireball.net/projects/markdown)
-### [Информация о Markdown на GitHab](https://docs.github.com/en/get-started/writing-on-github)
-### [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
+#### [Википедия о Markdown](https://ru.wikipedia.org/wiki/Markdown)
+#### [Документация Markdown](https://daringfireball.net/projects/markdown)
+#### [Информация о Markdown на GitHab](https://docs.github.com/en/get-started/writing-on-github)
+#### [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
+#### [Markdown Here wiki](https://github.com/adam-p/markdown-here/wiki)
 ___
     
 ## Разделительная черта
