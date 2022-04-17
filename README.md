@@ -1,10 +1,5 @@
 # Редактирование и оформление файла README.md
 
-1. [Детализация (кат)](#Детализация-кат)
-2. [Форматирование текста](#Форматирование-текста)
-3. [Имитация клавиатуры](#Имитация-клавиатуры) 
-4. [Бэйджики](#Бэйджики)
-
 ## Оглавление
 
 0. [Разделительная черта](https://github.com/BaturinSS/manual-README.md/blob/main/src/dividing-line/dividing-line.md)
@@ -15,20 +10,24 @@
 5. [Использование цитирования в тексте](https://github.com/BaturinSS/manual-README.md/blob/main/src/citations-text/citations-text.md)
 6. [Использование сносок в тексте](https://github.com/BaturinSS/manual-README.md/blob/main/src/footnotes-text/footnotes-text.md)
 7. [Подсветка кода](https://github.com/BaturinSS/manual-README.md/blob/main/src/code-highlighting/code-highlighting.md)
-8. [Списки](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/lists.md)
+8. [Детализация (кат)](https://github.com/BaturinSS/manual-README.md/blob/main/src/details/details.md)
+9. [Форматирование текста](https://github.com/BaturinSS/manual-README.md/blob/main/src/format-text/format-text.md)
+10. [Имитация клавиатуры](https://github.com/BaturinSS/manual-README.md/blob/main/src/keyboard-simulation/keyboard-simulation.md) 
+11. [Бэйджики](https://github.com/BaturinSS/manual-README.md/blob/main/src/badges/badges.md)
+12. [Списки](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/lists.md)
     1. [Маркированный](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/bulleted-lists.md)
     2. [Нумерованный](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/numbered-lists.md)
     3. [Смешанные списки](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/mixed-lists.md)
     4. [Список задач](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/task-list.md)
-9. [Ссылки](https://github.com/BaturinSS/manual-README.md/blob/main/src/link/link.md)
-10. [Вставка изображения](https://github.com/BaturinSS/manual-README.md/blob/main/src/image/image.md)
-11. [Вставка видео с YouTube](https://github.com/BaturinSS/manual-README.md/blob/main/src/video/video-youtube.md)
-12. [Вставка таблиц](https://github.com/BaturinSS/manual-README.md/blob/main/src/tables/tables.md)
-13. [Диаграмм Mermaid.js](https://github.com/BaturinSS/manual-README.md/blob/main/src/mermaid/mermaid.md)
-14. [Дополнения](https://github.com/BaturinSS/manual-README.md/blob/main/Дополнения.md)
-15. [Инструменты](#Инструменты)
-16. [Библиотеки JavaScript](#Библиотеки-JavaScript)
-17. [Полезные ссылки](#Полезные-ссылки)
+13. [Ссылки](https://github.com/BaturinSS/manual-README.md/blob/main/src/link/link.md)
+14. [Вставка изображения](https://github.com/BaturinSS/manual-README.md/blob/main/src/image/image.md)
+15. [Вставка видео с YouTube](https://github.com/BaturinSS/manual-README.md/blob/main/src/video/video-youtube.md)
+16. [Вставка таблиц](https://github.com/BaturinSS/manual-README.md/blob/main/src/tables/tables.md)
+17. [Диаграмм Mermaid.js](https://github.com/BaturinSS/manual-README.md/blob/main/src/mermaid/mermaid.md)
+18. [Дополнения](https://github.com/BaturinSS/manual-README.md/blob/main/Дополнения.md)
+19. [Инструменты](#Инструменты)
+20. [Библиотеки JavaScript](#Библиотеки-JavaScript)
+21. [Полезные ссылки](#Полезные-ссылки)
 
 ___
 
