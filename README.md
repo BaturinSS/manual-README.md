@@ -4,6 +4,8 @@
 
 Это предназначено для краткой справки и демонстрации. Для получения более полной информации см. оригинальную документацию [Markdown](https://daringfireball.net/projects/markdown/) и информационную страницу [Markdown на Github](https://docs.github.com/en/get-started/writing-on-github).
 
+Также существует еще один формат - reStructuredText, описание которого вынесено в отдельный файл README.rst
+
 ___
 
 ## Оглавление
