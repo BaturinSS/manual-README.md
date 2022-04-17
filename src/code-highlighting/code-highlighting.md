@@ -37,6 +37,14 @@
     ```php
         <?php phpinfo();?>
     ```
+    
+    ```javaScript
+         setItem(element, createdSubmit) {
+           createdSubmit
+             ? this._container.prepend(element)
+             : this._container.append(element)
+    }
+    ```
 Пример блока для `javaScript`:
 
 ```javaScript
