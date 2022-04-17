@@ -2,6 +2,7 @@
 
 #### [Назад к "Использование эмодзи (emoji)"](https://github.com/BaturinSS/manual-README.md/blob/main/src/emoji/emoji.md)    
 #### [Назад к README.md](https://github.com/BaturinSS/manual-README.md)
+#### [Ссылка на полный список (en)](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ___
 
