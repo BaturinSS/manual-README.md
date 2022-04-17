@@ -1,10 +1,12 @@
 ## Списки
 
-+ #### [Маркированный список](#)
++ #### [Маркированный список](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/bulleted-lists.md)
 
-+ #### [Нумерованный список](#)
++ #### [Нумерованный список](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/numbered-lists.md)
 
-+ #### [Смешанные списки](#)
++ #### [Смешанные спискок](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/mixed-lists.md)
+
++ #### [Список задач](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/task-list.md)
 
 ___
 
