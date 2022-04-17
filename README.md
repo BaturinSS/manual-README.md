@@ -5,10 +5,6 @@
 Это предназначено для краткой справки и демонстрации. Для получения более полной информации см. оригинальную документацию [John Gruber's](https://daringfireball.net/projects/markdown/) и информационную страницу [Markdown на Github](https://docs.github.com/en/get-started/writing-on-github).
 
 Обратите внимание, что здесь также есть Cheatsheet, специфичный для Markdown, если это то, что вы ищете. Вы также можете проверить больше инструментов Markdown.
-### [Википедия о Markdown](https://ru.wikipedia.org/wiki/Markdown)
-### [Документация Markdown](https://daringfireball.net/projects/markdown)
-### [Информация о Markdown на GitHab](https://docs.github.com/en/get-started/writing-on-github)
-### [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)    
 ___
 
 ## Оглавление
@@ -32,6 +28,15 @@ ___
 12. [Вставка таблиц](#Вставка-таблиц)
 13. [Диаграмм Mermaid.js](#диаграмм-mermaidjs)
 14. [Дополнения](https://github.com/BaturinSS/manual-README.md/blob/main/Дополнения.md)
+___
+
+## Полезные ссылки
+
+### [Википедия о Markdown](https://ru.wikipedia.org/wiki/Markdown)
+### [Документация Markdown](https://daringfireball.net/projects/markdown)
+### [Информация о Markdown на GitHab](https://docs.github.com/en/get-started/writing-on-github)
+### [Другие инструменты Markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
+___
     
 ## Разделительная черта
 При использовании
