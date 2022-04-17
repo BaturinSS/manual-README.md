@@ -10,7 +10,7 @@
 5. [Использование цитирования в тексте](https://github.com/BaturinSS/manual-README.md/blob/main/src/citations-text/citations-text.md)
 6. [Использование сносок в тексте](https://github.com/BaturinSS/manual-README.md/blob/main/src/footnotes-text/footnotes-text.md)
 7. [Подсветка кода](https://github.com/BaturinSS/manual-README.md/blob/main/src/code-highlighting/code-highlighting.md)
-8. [Использование в коде цветных банеров](#)
+8. [Использование в коде цветных банеров](https://github.com/BaturinSS/manual-README.md/blob/main/src/color-banners/color-banners.md)
 9. [Детализация (кат)](https://github.com/BaturinSS/manual-README.md/blob/main/src/details/details.md)
 10. [Форматирование текста](https://github.com/BaturinSS/manual-README.md/blob/main/src/format-text/format-text.md)
 11. [Имитация клавиатуры](https://github.com/BaturinSS/manual-README.md/blob/main/src/keyboard-simulation/keyboard-simulation.md) 
