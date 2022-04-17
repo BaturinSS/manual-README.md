@@ -10,6 +10,8 @@
 :black_square_button: делать или не делать, вот в чем вопрос?    
 ```
 
-Список работающих Эмодзи находится тут -> [emojiList.md](https://github.com/BaturinSS/manual-README.md/blob/main/src/emoji/emojiList.md)    
+Список работающих Эмодзи находится тут -> [emojiList.md](https://github.com/BaturinSS/manual-README.md/blob/main/src/emoji/emojiList.md)
+
+___
 
 ## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)

@@ -27,4 +27,6 @@
 | literal | Строка содержит символьный литерал literal | foo |
 | re1&#124;re2 | Строка содержит регулярные выражения `rel` или `re2` | foo&#124;bar |
 
-[:arrow_up:Оглавление](#Оглавление)
+___
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)

@@ -14,5 +14,6 @@
 
 [![Тут текст](https://user-images.githubusercontent.com/94468513/163691980-6e337bae-8fcc-490e-908e-901cebcf8b54.png)](https://youtu.be/wqZYjC_xej8)
 
-        
-[:arrow_up:Оглавление](#Оглавление)
+___
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)

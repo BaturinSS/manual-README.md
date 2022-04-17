@@ -155,5 +155,7 @@
 - [ ] Задача 3
     - [ ] Подзадача 1 для Задачи 3
         - [ ] Подзадача 1 для Подзадача 1 для Задачи 3
-    
-[:arrow_up:Оглавление](#Оглавление)
+
+___
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)

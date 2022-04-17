@@ -42,4 +42,6 @@ ___Жирный наклонный текст (bold italic)___
 ```
 ~~*__Тут странный текст__*~~
 
+___
+
 ## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)

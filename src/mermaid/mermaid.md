@@ -23,4 +23,6 @@ erDiagram
 ```
 Очень подробно на русском языке о диаграммах Mermaid.js: https://habr.com/ru/post/652867/ 
 
-[:arrow_up:Оглавление](#Оглавление)
+___
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)

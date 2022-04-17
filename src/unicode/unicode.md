@@ -13,4 +13,6 @@
 
 Сайт с полным списком находится тут -> [unicode-table](https://unicode-table.com/ru/)    
 
-[:arrow_up:Оглавление](#Оглавление)
+___
+
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)
