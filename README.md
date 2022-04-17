@@ -70,7 +70,7 @@ ___
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `желтый`    
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `синий`    
 ![#a90171](https://via.placeholder.com/15/a90171/000000?text=+) `пурпурный`    
-![alt-text](https://via.placeholder.com/500x15/a90171/1589F0?text=+TEXT)    
+![alt-text](https://via.placeholder.com/1500x15/a90171/1589F0?text=+)    
 [Источник информации](https://placeholder.com/)
 
 ```diff
