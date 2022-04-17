@@ -36,4 +36,4 @@
 ___
 
 ## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)
-## [:arrow_up:  Списки](#)
+## [:arrow_up:  Списки](https://github.com/BaturinSS/manual-README.md/blob/main/src/lists/lists.md)
