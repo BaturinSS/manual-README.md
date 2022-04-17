@@ -62,7 +62,7 @@ ___
 #### [Markdown Here wiki](https://github.com/adam-p/markdown-here/wiki)
 ___
 
-## [&#8617;  Оглавление](#Оглавление)
+## [:arrow_up:  Оглавление](#Оглавление)
 
 ___
 ## Разделительная черта
