@@ -22,6 +22,8 @@
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `синий`    
 
 ![#a90171](https://via.placeholder.com/15/a90171/000000?text=+) `пурпурный`    
+
+![#a90171](https://via.placeholder.com/15/a90171/000000?text=+) `зеленый`    
 ```
 ### _Пример:_
 
@@ -32,6 +34,8 @@
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `синий`    
 
 ![#a90171](https://via.placeholder.com/15/a90171/000000?text=+) `пурпурный`    
+
+![#a90171](https://via.placeholder.com/15/16be5a/000000?text=+) `зеленый`   
 
 Цвет может быть любым. На этом сайте можно посмотреть коды цвета [Color Hex Color Codes](https://www.color-hex.com)
 
