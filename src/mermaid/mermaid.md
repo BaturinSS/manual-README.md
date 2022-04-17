@@ -21,7 +21,7 @@ erDiagram
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
-Очень подробно на русском языке о диаграммах Mermaid.js: https://habr.com/ru/post/652867/ 
+Очень подробно на русском языке о диаграммах Mermaid.js: [habr.com](https://habr.com/ru/post/652867)
 
 ___
 
