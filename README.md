@@ -36,7 +36,7 @@ ___
 
 + #### [ВStackEdit: редактор документов MD в браузере :arrow_right:](https://stackedit.io)
 + #### [Minimalist Markdown Editor: в браузере :arrow_right:](http://markdown.pioul.fr)
-+ #### [Minimalist Markdown Editor: плагин для Chrome :arrow_right:](https://chrome.google.com/webstore/detail/minimalist-markdown edito/pghodfjepegmciihfhdipmimghiakcjf/related)
++ #### [Minimalist Markdown Editor: плагин для Chrome :arrow_right:](https://chrome.google.com/webstore/detail/minimalist-markdown-edito/pghodfjepegmciihfhdipmimghiakcjf/related)
 + #### [Mou: редактор macOS :arrow_right:](http://25.io/mou)
 + #### [Haroopad: кросс-платформенный редактор :arrow_right:](http://pad.haroopress.com/user.html)
 + #### [Больший список инструментов :arrow_right:](https://github.com/writekit/awesome-markdown)
