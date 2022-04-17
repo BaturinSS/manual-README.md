@@ -4,7 +4,6 @@
 
 Это предназначено для краткой справки и демонстрации. Для получения более полной информации см. оригинальную документацию [Markdown](https://daringfireball.net/projects/markdown/) и информационную страницу [Markdown на Github](https://docs.github.com/en/get-started/writing-on-github).
 
-Обратите внимание, что здесь также есть Cheatsheet, специфичный для Markdown, если это то, что вы ищете. Вы также можете проверить больше инструментов Markdown.
 ___
 
 ## Оглавление
