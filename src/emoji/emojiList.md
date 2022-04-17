@@ -1,7 +1,7 @@
 # EMOJI CHEAT SHEET
 
-[Назад к "Использование эмодзи (emoji)"](https://github.com/BaturinSS/manual-README.md/blob/main/src/emoji/emoji.md)
-[Назад к README.md](https://github.com/BaturinSS/manual-README.md)
+#### [Назад к "Использование эмодзи (emoji)"](https://github.com/BaturinSS/manual-README.md/blob/main/src/emoji/emoji.md)    
+#### [Назад к README.md](https://github.com/BaturinSS/manual-README.md)
 
 ##  People
 |		|		|		|
