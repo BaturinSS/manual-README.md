@@ -92,7 +92,7 @@
 
 ![#a90171](https://via.placeholder.com/1100x5/a90171/000000?text=+)
 
-## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md)
+## [:arrow_up:  Оглавление](https://github.com/BaturinSS/manual-README.md/blob/main/README.md#оглавление)
 
 [^note]:
     Для выделения текста **`жирным`** или *`наклонным`* и их сочетания можно использовать комбинации `*` или `_`.
